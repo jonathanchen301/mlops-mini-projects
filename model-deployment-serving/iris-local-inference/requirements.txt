@@ -4,3 +4,7 @@ matplotlib
 joblib
 fastapi
 uvicorn
+skl2onnx
+onnxruntime
+requests
+time
